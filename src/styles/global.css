@@ -1086,7 +1086,7 @@ html[data-nav='open'] .scrim {
   text-transform: uppercase;
 }
 
-.recruiter-resource h2 {
+.recruiter-resource :is(h2, h3) {
   margin: 1.5rem 0 0.4rem;
   font-size: 1.35rem;
   font-weight: 500;
