@@ -23,7 +23,7 @@ How do you tell a useful signal from a convincing result? These projects approac
   </article>
 </div>
 
-## Machine Learning from Scratch
+## Machine Learning
 
 <div class="recruiter-resources">
   <article class="recruiter-resource">
